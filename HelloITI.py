@@ -10,7 +10,10 @@ class HelloITI:
         print("Hello ITI")
 
     def printHelloPython(self):
-        print("Hello Python ITI")    
+        print("Hello Python ITI")   
+
+    def printHelloWorld(self):
+        print("Hello World ITI")     
 
 if __name__ == "__main__":
     hi1 = HelloGit()
@@ -20,3 +23,4 @@ if __name__ == "__main__":
     hi2 = HelloITI()
     hi2.printHelloITI()
     hi2.printHelloPython()
+    hi2.printHelloWorld()
