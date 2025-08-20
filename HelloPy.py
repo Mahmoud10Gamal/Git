@@ -4,7 +4,10 @@ class HelloWorld:
 
 class HelloPy:
     def printHelloWorld(self):
-        print("Hello Java World!")     
+        print("Hello Java World!") 
+
+    def printHelloPy(self):
+        print("Hello Python World!")    
 
 if __name__ == '__main__':
     hw = HelloWorld()
