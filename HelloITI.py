@@ -2,6 +2,9 @@ class HelloGit:
     def printHelloGit(self):
         print("Hello Git")
 
+    def printHelloGitHub(self):
+        print("Hello GitHub")    
+
 class HelloITI:
     def printHelloITI(self):
         print("Hello ITI")
